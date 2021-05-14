@@ -83,7 +83,7 @@ Q2. Of the exit types defined in the SDM, which are the most frequent? Least?
 The most frequent were 
 
 #### Exit number 48 - EPT Violation
-#### Exit Number 7 - 
+#### Exit Number 7 - Interrupt window
 
 The least frequest were
 
